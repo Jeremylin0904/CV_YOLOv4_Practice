@@ -1,6 +1,6 @@
 # YOLOv4 Object Detection using Pre-trained Model
 
-This repository contains a Python notebook demonstrating how to perform object detection using a pre-trained YOLOv4 model. YOLO (You Only Look Once) is a popular deep learning algorithm for real-time object detection. YOLOv4 is an improved version of the YOLO algorithm, offering better accuracy and speed.
+This repository contains a Python notebook demonstrating how to perform object detection using a pre-trained YOLOv4 model.
 
 ## Notebook Overview
 
@@ -16,6 +16,6 @@ The provided notebook demonstrates how to utilize a pre-trained YOLOv4 model for
 ## Original Image
 
 ![Original Image](1811127-PH.jpg)
-## Result
+## Results
 
 ![Detected Objects](result.png)
