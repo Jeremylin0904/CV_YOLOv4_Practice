@@ -12,7 +12,7 @@ The provided notebook demonstrates how to utilize a pre-trained YOLOv4 model for
 4. Performing object detection on the input image using the YOLOv4 model.
 5. Post-processing the detection results, including non-maximum suppression (NMS) to filter out overlapping bounding boxes.
 6. Displaying the detected objects on the original image.
-7. 
+
 ## Original Image
 
 ![Original Image](1811127-PH.jpg)
